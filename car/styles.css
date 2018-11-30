@@ -1,0 +1,77 @@
+
+#left-tire {
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    top: 400px;
+    left: 300px;
+}
+
+#right-tire {
+    position: absolute;
+    border-radius: 50%;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    top: 400px;
+    left: 800px;
+}
+
+#car-body {
+    position: absolute;
+    background-color: red;
+    border-radius: 10px;
+    height: 200px;
+    width: 575px;
+    top: 300px;
+    left: 365px;
+}
+
+#car-top {
+    position: absolute;
+    background-color: red;
+    border-radius: 10px;
+    height: 200px;
+    width: 400px;
+    top: 150px;
+    left: 365px;
+}
+
+#window {
+    position: absolute;
+    background-color: lightblue;
+    height: 125px;
+    width: 250px;
+    top: 175px;
+    left: 400px;
+}
+
+#car-door {
+    position: absolute;
+    border: solid black 2px;
+    height: 180px;
+    width: 300px;
+    top: 310px;
+    left: 380px;
+}
+
+#car-door-divider {
+    position: absolute;
+    border: solid black 2px;
+    height: 180px;
+    width: 150px;
+    top: 310px;
+    left: 380px;
+}
+
+#car-light {
+    position: absolute;
+    border-radius: 50%;
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    top: 310px;
+    left: 870px;
+}
