@@ -1,0 +1,51 @@
+#body{
+    position: absolute;
+    border-radius: 50%;
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    top: 300px;
+    left: 500px;
+}
+
+#left-arm{
+    position: absolute;
+    border-radius: 50%;
+    background-color: pink;
+    height: 50px;
+    width: 100px;
+    top: 100px;
+    left: -70px;
+}
+
+#right-arm{
+    position: absolute;
+    border-radius: 50%;
+    background-color: pink;
+    height: 50px;
+    width: 100px;
+    top: 100px;
+    left: 170px;
+}
+
+#left-foot{
+    position: absolute;
+    border-radius: 50%;
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    top: 170px;
+    left: 110px;
+}
+
+#right-foot{
+    position: absolute;
+    border-radius: 50%;
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    top: 170px;
+    left: -10px;
+}
+
+/* z index to draw over */
